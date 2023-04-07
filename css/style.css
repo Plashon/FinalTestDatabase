@@ -1,0 +1,14 @@
+img {
+    transition: transform 0.25s ease;
+}
+
+img:hover {
+    -webkit-transform: scale(10);
+    /* or some other value */
+    transform: scale(10);
+    border-radius: 50%;
+}
+.input{
+    font-weight: 700;
+    color: rgb(58, 19, 109);
+}
